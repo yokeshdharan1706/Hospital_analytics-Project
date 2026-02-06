@@ -1,0 +1,6 @@
+branch_id,branch_name,city,total_beds,icu_beds,ventilators
+1,Hospital Branch 1,Nangloi Jat,627,47,31
+2,Hospital Branch 2,Amroha,679,57,45
+3,Hospital Branch 3,Ballia,414,48,77
+4,Hospital Branch 4,Bhilai,352,83,77
+5,Hospital Branch 5,Ramagundam,579,45,67

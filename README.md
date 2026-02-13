@@ -147,7 +147,7 @@ hospital-analytics/
 └── README.md
 ```
 
-#### 🚀 How to Run the Project####
+#### 🚀 How to Run the Project
 
 Generate fake data using Python
 
@@ -164,7 +164,7 @@ Configure Gateway for auto refresh
 
 
 
-#### Business Value####
+#### Business Value
 
 Helps hospital leadership identify bottlenecks
 
@@ -175,9 +175,9 @@ Enables financial transparency
 Supports data-driven decision making
 
 
-
+```text
 Yokesh Dharan
 Data Analytics Professional
 Skills: SQL | Python | Power BI | ETL | Data Modeling
-        ↓
 Power BI Dashboard
+```

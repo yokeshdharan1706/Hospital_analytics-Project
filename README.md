@@ -122,6 +122,8 @@ Daily / Weekly
 
 SQL Views used for optimized refresh performance
 
+'''text
+
 **📁 Repository Structure**
 hospital-analytics/
 │
@@ -142,8 +144,9 @@ hospital-analytics/
 │   └── data_generator.py
 │
 └── README.md
+'''
 
-🚀 How to Run the Project
+**🚀 How to Run the Project**
 
 Generate fake data using Python
 

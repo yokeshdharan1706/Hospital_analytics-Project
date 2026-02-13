@@ -163,6 +163,7 @@ Configure Gateway for auto refresh
 
 
 **Business Value**
+
 Helps hospital leadership identify bottlenecks
 
 Improves bed & doctor utilization

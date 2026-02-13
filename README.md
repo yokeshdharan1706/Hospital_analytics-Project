@@ -39,7 +39,7 @@ Analytics	SQL (Views, Aggregations)
 Visualization	Power BI
 Refresh	Power BI Gateway (On-Prem MySQL)
 
-🗂️ Data Model (Star Schema)
+## 🗂️ Data Model (Star Schema)
 Dimension Tables
 
 dim_date
@@ -62,7 +62,7 @@ fact_procedures
 
 fact_billing
 
-📊 Key KPIs Implemented
+## 📊 Key KPIs Implemented
 
 Average Length of Stay (ALOS)
 
@@ -86,9 +86,8 @@ Patient Outcome Distribution
 
 YoY Revenue Growth %
 
-📈 Power BI Dashboard Pages
-**1️⃣ Executive Summary
-**
+## 📈 Power BI Dashboard Pages
+### 1️⃣ Executive Summary
 Total Patients
 
 Total Revenue

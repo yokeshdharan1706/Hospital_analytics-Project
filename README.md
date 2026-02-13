@@ -82,10 +82,6 @@ Doctor Utilization %
 
 Cost per Patient
 
-Insurance vs Out-of-Pocket Billing
-
-Patient Outcome Distribution
-
 YoY Revenue Growth %
 
 ## 📈 Power BI Dashboard Pages

@@ -15,9 +15,8 @@ To provide hospital management with actionable insights on:
 - Billing & insurance coverage
 - Operational KPIs and trends
 
----
 
-## 🧩 Project Architecture
+##  🧩Project Architecture
 
 ```text
 Fake Data Generation (Python)
@@ -31,7 +30,7 @@ Fact & Dimension Tables
 SQL Views (KPIs Layer)
 
 
-****Tools & Technologies Layer	Tools**
+# Tools & Technologies Layer Tools
 Data Generation	Python (Pandas, Faker)
 Storage	MySQL 8.0
 Data Modeling	Star Schema
@@ -39,7 +38,7 @@ Analytics	SQL (Views, Aggregations)
 Visualization	Power BI
 Refresh	Power BI Gateway (On-Prem MySQL)
 
-## 🗂️ Data Model (Star Schema)
+## 🗂️Data Model (Star Schema)
 Dimension Tables
 
 dim_date

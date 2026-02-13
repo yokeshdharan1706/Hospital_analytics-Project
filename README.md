@@ -32,12 +32,14 @@ SQL Views (KPIs Layer)
 
 
 # Tools & Technologies Layer Tools
+```text
 Data Generation	Python (Pandas, Faker)
 Storage	MySQL 8.0
 Data Modeling	Star Schema
 Analytics	SQL (Views, Aggregations)
 Visualization	Power BI
 Refresh	Power BI Gateway (On-Prem MySQL)
+```
 
 ## 🗂️Data Model (Star Schema)
 Dimension Tables

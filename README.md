@@ -104,8 +104,7 @@ Emergency vs Elective cases
 
 Department-wise admissions
 
-**3️⃣ Doctor & Bed Utilization
-**
+**3️⃣ Doctor & Bed Utilization**
 Doctor workload %
 
 Bed occupancy rate
@@ -122,8 +121,8 @@ Daily / Weekly
 
 SQL Views used for optimized refresh performance
 
-'''text
 
+```text
 **📁 Repository Structure**
 hospital-analytics/
 │
@@ -144,7 +143,7 @@ hospital-analytics/
 │   └── data_generator.py
 │
 └── README.md
-'''
+```
 
 **🚀 How to Run the Project**
 

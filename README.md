@@ -147,7 +147,7 @@ hospital-analytics/
 └── README.md
 ```
 
-**🚀 How to Run the Project**
+#### 🚀 How to Run the Project####
 
 Generate fake data using Python
 
@@ -162,7 +162,9 @@ Build visuals using views
 Configure Gateway for auto refresh
 
 
-**Business Value**
+
+
+#### Business Value####
 
 Helps hospital leadership identify bottlenecks
 

@@ -18,7 +18,7 @@ To provide hospital management with actionable insights on:
 
 ##  🧩Project Architecture
 
-'''text
+```text
 Fake Data Generation (Python)
         ↓
 CSV Files
@@ -28,6 +28,8 @@ ETL & Data Modeling (MySQL)
 Fact & Dimension Tables
         ↓
 SQL Views (KPIs Layer)
+```
+
 
 # Tools & Technologies Layer Tools
 Data Generation	Python (Pandas, Faker)
@@ -85,7 +87,7 @@ Patient Outcome Distribution
 YoY Revenue Growth %
 
 ## 📈 Power BI Dashboard Pages
-### 1️⃣ Executive Summary
+**1️⃣ Executive Summary**
 Total Patients
 
 Total Revenue
@@ -165,10 +167,10 @@ Enables financial transparency
 
 Supports data-driven decision making
 
-👤 Author
+
 
 Yokesh Dharan
-Data Analytics & Engineering Enthusiast
+Data Analytics Professional
 Skills: SQL | Python | Power BI | ETL | Data Modeling
         ↓
 Power BI Dashboard

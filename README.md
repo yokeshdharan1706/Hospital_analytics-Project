@@ -28,7 +28,6 @@ ETL & Data Modeling (MySQL)
 Fact & Dimension Tables
         ↓
 SQL Views (KPIs Layer)
-'''text
 
 # Tools & Technologies Layer Tools
 Data Generation	Python (Pandas, Faker)
